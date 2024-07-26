@@ -1,0 +1,15 @@
+html {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background: linear-gradient(to right bottom, #aa20e0, #3153e9);
+}
+
+body {
+    background: transparent;
+}
+
+.ellipsis-text {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
